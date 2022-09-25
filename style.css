@@ -26,3 +26,9 @@ img {
 margin: 20px auto;
 padding:30px;
 }
+.lado-esquerdo{
+width: 200px;
+  float: left;
+
+}
+
