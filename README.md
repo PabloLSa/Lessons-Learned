@@ -4,6 +4,7 @@ Este é meu primeiro projeto pessoal Trybe com fins educacionais, vontade de apr
 
 Meu projeto é simples de uma página HTML que exibe uma lista de lições aprendidas e a aprender. O objetivo é praticar habilidades de HTML e CSS.
 A página exibe uma lista de lições aprendidas e a aprender, uma imagem e um texto na seção principal da página. O layout é simples e responsivo, com uma barra de cabeçalho fixa na parte superior.
+
 Estrutura do Código
 O código HTML contém as seguintes seções:
 
